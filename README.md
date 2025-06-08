@@ -19,10 +19,10 @@ A personal finance tracking dashboard built using **Google Sheets**, designed to
 ## 📊 Screenshots
 
 ### Monthly Dashboard
-![Monthly Dashboard](Monthly.jpg)
+![Monthly Dashboard](assets/Monthly.jpg)
 
 ### Yearly Dashboard
-![Yearly Dashboard](Yearly.jpg)
+![Yearly Dashboard](assets/Yearly.jpg)
 
 ---
 
